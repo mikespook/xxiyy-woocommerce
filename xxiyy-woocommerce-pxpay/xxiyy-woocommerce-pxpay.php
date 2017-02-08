@@ -1,12 +1,16 @@
 <?php
-/*
+/**
  * Plugin Name: PaymentExpress - WooCommerce Gateway
- * Plugin URI: https://www.mikespook.com/
- * Description: Extends WooCommerce by Adding the PaymentExpress Gateway.
- * Version: 1.0
+ * Plugin URI: https://github.com/mikespook/xxiyy-woocommerce/tree/master/xxiyy-woocommerce-pxpay
+ * Description: Extends WooCommerce by Adding the PaymentExpress Gateway
+ * Version: 1.0.0
  * Author: Xing Xing
- * Author URI: https://www.mikespook.com/
- * */
+ * Author URI: https://mikespook.com
+ * License: The MIT License
+ * License URI: https://raw.githubusercontent.com/mikespook/xxiyy-woocommerce/master/LICENSE
+ * Domain Path: /xxiyy
+ * Text Domain: xxiyy
+ */
 
 // Include our Gateway Class and Register Payment Gateway with WooCommerce
 add_action( 'plugins_loaded', 'xxiyy_pxpay_loaded', 0 );

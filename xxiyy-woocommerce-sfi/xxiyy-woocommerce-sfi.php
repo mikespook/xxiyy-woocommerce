@@ -1,14 +1,13 @@
 <?php
-
 /**
- * Plugin Name: See Finalised Invoice shipping
- * Plugin URI: 
+ * Plugin Name: See Finalised Invoice shipping - WooCommerce Shipping Method
+ * Plugin URI: https://github.com/mikespook/xxiyy-woocommerce/tree/master/xxiyy-woocommerce-sfi
  * Description: SFI(See Finalised Invoice) Shipping Method for WooCommerce
  * Version: 1.0.0
  * Author: Xing Xing
  * Author URI: https://mikespook.com
  * License: The MIT License
- * License URI: 
+ * License URI: https://raw.githubusercontent.com/mikespook/xxiyy-woocommerce/master/LICENSE
  * Domain Path: /xxiyy
  * Text Domain: xxiyy
  */
